@@ -4,6 +4,9 @@
 ### I’m looking to collaborate on
  App development & Web development related projects(ongoing)<br>
  Random repositories which require contrbutions in Data Structures or Competitve Programming issues.
+### Accomplishments
+ * Participant at Script Winter Of Code
+  * Successfully completed Hacktoberfest'2020
 ### Skills
  * C/C++ 
  * Data Structures
@@ -13,7 +16,7 @@
 ### 📫 How to reach me:
  * Email id: siddharthsshah1207@gmail.com
  * Linkedin: [Siddharth Shah](https://www.linkedin.com/in/sid1207/)
- * Twitter:  [@_thisissid_](https://twitter.com/_thisissid_)
+ * Twitter:  [@_ thisissid _](https://twitter.com/_thisissid_)
   
 
 <!--
