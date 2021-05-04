@@ -3,7 +3,6 @@
 - 📫 How to reach me **siddharthsshah1207@gmail.com**
 
 <br>
-<br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -26,8 +25,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.codechef.com/users/sid_1207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="siddharthshah_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sid1207/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="siddharthshah_" height="40" width="40"/></a>
 <a href="https://twitter.com/_thisissid_" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="siddharthshah_" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/sid1207/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="siddharthshah_" height="40" width="40" style="background-color:white"/></a>
+<a href="https://www.codechef.com/users/sid_1207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="siddharthshah_" height="30" width="40" /></a>
 </p>
 
